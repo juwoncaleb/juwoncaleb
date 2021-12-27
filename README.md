@@ -1,9 +1,5 @@
 ### Hi there 👋
+My name is Juwoncaleb , I am a frontend developer from lagos Nigeria
+i create Buisness solution for corporate organisation and small business organisation with javascript and python
 
-- 🔭 I’m currently working on a gym project and an Airline website
-- 🌱 I’m currently learning Javascript and Python
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with landing my first job in tech 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to code and workout
 
